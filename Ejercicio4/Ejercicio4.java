@@ -1,4 +1,4 @@
-package com.generation;
+package Ejercicio4;
 
 // Se importa la clase Scanner para poder leer la entrada del usuario
 import java.util.Scanner;
@@ -45,5 +45,6 @@ public class Ejercicio4 {
             }
             System.out.println("Gana el jugador " + g);
         }
+        s.close();
     }
 }
